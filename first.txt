@@ -1,2 +1,3 @@
 This is my version 1 of project.
 I want this to go into commit.
+checking git diff.
